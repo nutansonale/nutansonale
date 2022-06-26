@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nutansonale
 - 👀 I’m interested in ... DevOps
-- 🌱 I’m currently learning ... Ansible
 - 💞️ I’m looking to collaborate on ... Webapps, Devops, automation
-- 📫 How to reach me ... nutansonale.tv@gmail.com
+- 📫 How to reach me ... nutansonaletv@gmail.com
 
 <!---
 nutansonale/nutansonale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
